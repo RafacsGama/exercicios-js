@@ -1,0 +1,11 @@
+{
+    "users":[{
+        "id": 1,
+        "nome": "Roberto Farias Oliveira",
+        "email": "robfo@zipmail.com.br"
+    }, {
+        "id":2,
+        "nome": "Maria Roberta Ferreira",
+        "email": "mrf@email.com"
+    }]
+}
